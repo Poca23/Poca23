@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋 Bienvenue sur le GitHub de CND</h1>
-<h3 align="center">**RECHERCHE UNE ALTERNANCE** <br> en developpement web et web mobile</h3>
-  
+<h3 align="center"> **RECHERCHE UNE ALTERNANCE** <br> en developpement web et web mobile</h3>
+
 
 - 🔭 Je travaille souvent sur : mes cours et mes projets (bientôt public). J'ai aussi une apprétence pour le design.
 
