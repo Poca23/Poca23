@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋 Bienvenue sur le GitHub de CND</h1>
+<h1 align="center">Bonjour 👋 Bienvenue sur le GitHub <br> CND - Web is Yours</h1>
 <h3 align="center"> **RECHERCHE UNE ALTERNANCE** <br> en developpement web et web mobile</h3>
 
 
