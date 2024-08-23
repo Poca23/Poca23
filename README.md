@@ -9,6 +9,8 @@
 
 - Vous trouverez tous mes projets sur : https://github.com/Poca23
 
+- Monn actualité sur : https://www.facebook.com/people/CND-Web-is-Yours/61564253862181/
+
 - Tout mon parcours se trouve sur mon C.V régulièrement actualisé : https://www.doyoubuzz.com/claire-naudin
 
 <h3 align="left">Connect with me:</h3>
