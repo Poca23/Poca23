@@ -1,5 +1,5 @@
 <h1 align="center">Bonjour 👋 Bienvenue sur le GitHub de CND</h1>
-<h3 align="center">Une autodidacte en developpement web et web mobile, ainsi que web design</h3>
+<h3 align="center">Une autodidacte qui recherche une _ALTERNANCE_ en developpement web et web mobile, ainsi que web design</h3>
 
 - 🔭 Je travaille souvent sur : mes cours (bientôt public) et mes projets (bientôt public)
 
