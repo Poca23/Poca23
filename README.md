@@ -4,7 +4,7 @@
 
 - 🔭 Je travaille souvent sur : mes cours et mes projets (bientôt public). J'ai aussi une apprétence pour le design.
 
-- 🌱 Je peux travailler régulièrement sur : **HTML5, CSS3, JavaScript, Python, médias Query**
+- 🌱 Je peux travailler régulièrement sur : **HTML5, CSS3, JavaScript, Python, médias Query, Java**
 
 - 👯 J'ai pu collaborer avec des professionnels dans le cadre de la création d'un site WordPress : site Les Acteurs Anonymes https://coursacteursanonymes.com/
 
