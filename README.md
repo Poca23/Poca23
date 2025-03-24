@@ -1,4 +1,4 @@
-# Professional Summary of [Your First Name and Last Name]
+# Claire Naudin
 
 ## Aspiring Full Stack Web Developer
 
