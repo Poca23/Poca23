@@ -52,7 +52,11 @@ Passionate Web Developer currently undergoing training at Greta de Tours. I comb
 ### 📌 Interactive Online Resume
 - **Technologies**: HTML, CSS, JavaScript, Responsive Design
 - **Description**: Modern and interactive presentation of my skills and experience
-
+- 
+### 📌 Notification System
+- **Technologies**: JavaScript, WebSockets, Node.js, React
+- **Description**: User interface with real-time notifications
+- 
 ### 📌 Visotech
 - **Technologies**: PHP, Laravel, MySQL, Tailwind CSS
 - **Description**: Exploration of innovative technological solutions
@@ -68,9 +72,6 @@ Passionate Web Developer currently undergoing training at Greta de Tours. I comb
 - **Description**: Rental platform with real-time booking functionality
 - **Organization**: Precise planning and priority tracking
 
-### 📌 Notification System
-- **Technologies**: JavaScript, WebSockets, Node.js, React
-- **Description**: User interface with real-time notifications
 
 ## 🎯 Professional Goals
 - Strengthen my skills as a full stack developer
@@ -79,6 +80,7 @@ Passionate Web Developer currently undergoing training at Greta de Tours. I comb
 - Refine my expertise in software architecture
 
 ## 📫 Contact
+cndweb37@gmail.com
 
 ---
 
