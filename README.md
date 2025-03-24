@@ -1,16 +1,23 @@
-## Hi there 👋
+# Professional Summary of [Your First Name and Last Name]
 
-<!--
-**Poca23/Poca23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Full Stack Web Developer
 
-Here are some ideas to get you started:
+🖥️ **Education**  
+Currently a student in web and mobile development at Greta de Tours, you have developed strong skills in both frontend and backend technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Projects Completed**  
+This year, you successfully created several innovative projects, including:
+- **Online CV:** A simple yet essential project to showcase your skills.
+- **Visotech:** A more complex project exploring new technological dimensions.
+- **E-commerce Platform:** Development of an online sales platform.
+- **Real Estate Booking Site:** Creation of an advanced application incorporating various features.
+
+⚙️ **Technologies and Tools Used**  
+Your technical expertise revolves around modern technologies, including:
+- **Programming Languages:** JavaScript, Java, PHP.
+- **Frameworks:** Spring Boot (and Spring Security).
+- **Project Management Tools:** Miro, Trello.
+- **Prototyping:** Figma.
+
+🎯 **Goals**  
+Your ambition is to continue progressing in the development field by adopting best practices and strengthening your technical foundations.
