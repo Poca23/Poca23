@@ -51,7 +51,7 @@ Passionate Web Developer currently undergoing training at Greta de Tours. I comb
 ### 📌 Interactive Online Resume
 - **Technologies**: HTML, CSS, JavaScript, Responsive Design
 - **Description**: Modern and interactive presentation of my skills and experience
-- 
+  
 ### 📌 Notification System
 - **Technologies**: HTML, CSS, JavaScript
 - **Design Tools**: Figma (Wireframes & Prototypes)
