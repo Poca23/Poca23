@@ -80,11 +80,27 @@ Passionate Web Developer currently undergoing training at Greta de Tours. I comb
 - **Development Environment**: Visual Studio Code, IntelliJ IDEA
 - **Description**: A chatbot project that utilizes machine learning to provide dynamic and intelligent responses. Designed with an engaging front-end in React connected to a robust back-end in Spring Boot. MySQL was used for data storage. 
 
-### 📌 PHP & Laravel Learning Platform
-- **Technologies**: Laravel, PHP, Blade
-- **Description**: An interactive platform designed to help users learn PHP and Laravel development by providing exercises, quizzes, and best practices.
-- **Progress**: The project is currently being developed using **Laravel** and is structured with a basic back-end built without using **Filament**. However, considering **Filament's** efficiency for building admin panels or managing CRUD functionalities, there’s ongoing reflection about redoing or extending the platform using **Filament** for enhanced features.
-- **Potential Future Enhancements**: Refactoring into a **Filament-based** architecture to simplify the implementation of admin tools and dynamic content management.
+### 📌 PHPLaraverse - PHP & Laravel Learning Platform
+**Technologies:** Laravel 11, Blade, TailwindCSS, AlpineJS, Filament, SQLite/PostgreSQL
+**Description:** An immersive educational platform designed to guide developers through PHP basics to advanced Laravel development. The application features interactive lessons, practical exercises, real-time code validation, and a gamified learning experience with badges and progress tracking.
+**Progress:** Currently in active development with a modular architecture separating PHP and Laravel learning paths. The project implements:
+- Comprehensive user dashboard tracking learning progress
+- Admin panel powered by Filament for content management
+- Interactive coding exercises with real-time validation
+- Quizzes and assessments to reinforce knowledge
+- Forum functionality for community support
+**Architecture Highlights:**
+- Modular design with dedicated PHP and Laravel learning modules
+- Progressive learning paths from beginner to advanced concepts
+- Responsive design optimized for all devices
+- Test-driven development approach with PHPUnit and Laravel Dusk
+**Deployment:** The application is configured for deployment on Render with PostgreSQL database integration, featuring continuous deployment from the GitHub repository.
+**Future Enhancements:**
+- Expanding exercise libraries with more real-world scenarios
+- Advanced code playground with Laravel sandbox environments
+- Integration with GitHub for project submission and review
+- API documentation tools and interactive examples
+- Community-contributed content and learning resources
 
 ## 🎯 Professional Goals
 - Strengthen my skills as a full stack developer
