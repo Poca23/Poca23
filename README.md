@@ -66,12 +66,14 @@ Passionate Web Developer who earned Web and Mobile Developer certification (Bac+
 ## **🎮 Quest_Adventure - Interactive Quest Game**
 **Technologies:** JavaScript, HTML5, CSS3  
 **Description:** Interactive text-based adventure game with navigation system and gameplay mechanics. Responsive user interface with immersive experience.
+https://poca23.github.io/Quest_Adventure/
 
 ---
 
 ## **📝 Transcripteur - Transcription Tool**
 **Technologies:** JavaScript, Web Speech API  
 **Description:** Utility application for audio-to-text transcription. Intuitive interface for voice content conversion and editing.
+https://poca23.github.io/Transcripteur/
 
 ---
 
@@ -85,6 +87,7 @@ Passionate Web Developer who earned Web and Mobile Developer certification (Bac+
 ## **✅ Clario - Modern Task Manager**
 **Technologies:** HTML5, CSS3, JavaScript  
 **Description:** TODOList application with modern and responsive interface. Complete task management with sorting, filtering, and data persistence features.
+https://poca23.github.io/Clario/
 
 ---
 
@@ -98,18 +101,21 @@ Passionate Web Developer who earned Web and Mobile Developer certification (Bac+
 ## **📊 ManageProject - Project Management Platform**
 **Technologies:** JavaScript, Management Tools  
 **Description:** Project management platform with task tracking, planning, and team collaboration. Complete administrative interface.
+https://poca23.github.io/ManageProject/
 
 ---
 
 ## **🧪 Clatest - Multi-Generational User Guide**
 **Technologies:** HTML5, CSS3, JavaScript, Interactive Documentation  
 **Description:** Comprehensive user guide for the Clario application adapted to three distinct age profiles (children, adults, seniors). Educational interface with personalized user paths.
+https://poca23.github.io/Clatest/
 
 ---
 
 ## **📚 Mes-Cours-Cie - Educational Platform**
 **Technologies:** HTML5, CSS3, JavaScript, Educational Content  
 **Description:** Educational content platform with course organization, teaching materials, and interactive learning interface.
+https://mescoursandcie.netlify.app/
 
 ---
 
