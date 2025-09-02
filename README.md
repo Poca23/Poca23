@@ -48,68 +48,68 @@ Passionate Web Developer currently undergoing training at Greta de Tours. I comb
 
 ## 🚀 Projects
 
-## **🏠 ReserveUnToit - Plateforme de Réservation Immobilière**
-**Technologies :** PHP, Laravel, MySQL, JavaScript, API, Filament, Breeze, Blade  
-**Description :** Plateforme de location avec système de réservation en temps réel. Intègre Breeze pour l'authentification, Blade pour le templating et Filament pour les fonctionnalités de gestion avancées. Planification précise et suivi des priorités.
+## **🏠 ReserveUnToit - Real Estate Booking Platform**
+**Technologies:** PHP, Laravel, MySQL, JavaScript, API, Filament, Breeze, Blade  
+**Description:** Rental platform with real-time booking functionality. Integrates Breeze for authentication, Blade for templating, and Filament for advanced management features. Precise planning and priority tracking.
 
 ---
 
-## **🤖 ClickTalk - Chatbot avec Intelligence Artificielle**
-**Technologies :** React, Spring Boot, Java, MySQL  
-**Outils Design :** Figma (Wireframes & Prototypes)  
-**Gestion de Projet :** Miro (Gestion des tâches et workflows)  
-**Environnements :** Visual Studio Code, IntelliJ IDEA  
-**Description :** Chatbot utilisant l'apprentissage automatique pour fournir des réponses dynamiques et intelligentes. Interface React moderne connectée à un backend robuste Spring Boot avec stockage MySQL.
+## **🤖 ClickTalk - AI-Powered Chatbot**
+**Technologies:** React, Spring Boot, Java, MySQL  
+**Design Tools:** Figma (Wireframes & Prototypes)  
+**Project Management:** Miro (Task and Workflow Management)  
+**Development Environment:** Visual Studio Code, IntelliJ IDEA  
+**Description:** Chatbot utilizing machine learning to provide dynamic and intelligent responses. Modern React frontend connected to a robust Spring Boot backend with MySQL data storage.
 
 ---
 
-## **🎮 Quest_Adventure - Jeu de Quête Interactif**
-**Technologies :** JavaScript, HTML5, CSS3  
-**Description :** Jeu d'aventure textuel interactif avec système de navigation et mécaniques de gameplay. Interface utilisateur responsive et expérience immersive.
+## **🎮 Quest_Adventure - Interactive Quest Game**
+**Technologies:** JavaScript, HTML5, CSS3  
+**Description:** Interactive text-based adventure game with navigation system and gameplay mechanics. Responsive user interface with immersive experience.
 
 ---
 
-## **📝 Transcripteur - Outil de Transcription**
-**Technologies :** JavaScript, API Web Speech  
-**Description :** Application utilitaire permettant la transcription audio vers texte. Interface intuitive pour la conversion et l'édition de contenus vocaux.
+## **📝 Transcripteur - Transcription Tool**
+**Technologies:** JavaScript, Web Speech API  
+**Description:** Utility application for audio-to-text transcription. Intuitive interface for voice content conversion and editing.
 
 ---
 
-## **🤖 Nestor - Assistant IA de Gestion de Vie**
-**Technologies :** JavaScript, Node.js, Intelligence Artificielle  
-**Statut :** En construction  
-**Description :** Assistant intelligent intégré pour la gestion et l'organisation de la vie quotidienne. Utilise l'IA pour optimiser la planification et fournir des recommandations personnalisées.
+## **🤖 Nestor - AI Life Management Assistant**
+**Technologies:** JavaScript, Node.js, Artificial Intelligence  
+**Status:** Under Construction  
+**Description:** Integrated intelligent assistant for daily life management and organization. Uses AI to optimize planning and provide personalized recommendations.
 
 ---
 
-## **✅ Clario - Gestionnaire de Tâches Moderne**
-**Technologies :** HTML5, CSS3, JavaScript  
-**Description :** Application TODOList avec interface moderne et responsive. Gestion complète des tâches avec fonctionnalités de tri, filtrage et persistance des données.
+## **✅ Clario - Modern Task Manager**
+**Technologies:** HTML5, CSS3, JavaScript  
+**Description:** TODOList application with modern and responsive interface. Complete task management with sorting, filtering, and data persistence features.
 
 ---
 
-## **🏥 Ergothérapeute-site - Site Vitrine Professionnel**
-**Technologies :** HTML5, CSS3, JavaScript  
-**Statut :** En construction  
-**Description :** Site web professionnel pour cabinet d'ergothérapie. Design responsive, présentation des services et interface de contact optimisée.
+## **🏥 Ergotherapeute-site - Professional Website**
+**Technologies:** HTML5, CSS3, JavaScript  
+**Status:** Under Construction  
+**Description:** Professional website for occupational therapy practice. Responsive design, service presentation, and optimized contact interface.
 
 ---
 
-## **📊 ManageProject - Gestionnaire de Projets**
-**Technologies :** JavaScript, Outils de gestion  
-**Description :** Plateforme de gestion de projets avec suivi des tâches, planification et collaboration d'équipe. Interface administrative complète.
+## **📊 ManageProject - Project Management Platform**
+**Technologies:** JavaScript, Management Tools  
+**Description:** Project management platform with task tracking, planning, and team collaboration. Complete administrative interface.
 
 ---
 
-## **🧪 Clatest - Guide d'Utilisation Multi-Générationnel**
-**Technologies :** HTML5, CSS3, JavaScript, Documentation interactive  
-**Description :** Guide d'utilisation complet de l'application Clario adapté à trois profils d'âge distincts (enfants, adultes, seniors). Interface pédagogique avec parcours personnalisé selon l'utilisateur.
+## **🧪 Clatest - Multi-Generational User Guide**
+**Technologies:** HTML5, CSS3, JavaScript, Interactive Documentation  
+**Description:** Comprehensive user guide for the Clario application adapted to three distinct age profiles (children, adults, seniors). Educational interface with personalized user paths.
 
 ---
 
-## **📚 Mes-Cours-Cie - Plateforme Éducative**
-**Technologies :** HTML5, CSS3, JavaScript, Contenus pédagogiques  
-**Description :** Plateforme de contenu éducatif avec organisation de cours, matériel pédagogique et interface d'apprentissage interactive.
+## **📚 Mes-Cours-Cie - Educational Platform**
+**Technologies:** HTML5, CSS3, JavaScript, Educational Content  
+**Description:** Educational content platform with course organization, teaching materials, and interactive learning interface.
 
 ---
 
