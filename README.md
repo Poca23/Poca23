@@ -1,10 +1,10 @@
 # Claire Naudin | Full Stack Web Developer
 
 ## 🧰 About Me
-Passionate Web Developer currently undergoing training at Greta de Tours. I combine technical skills with project management methodologies to create high-performance and innovative web solutions.
+Passionate Web Developer who earned Web and Mobile Developer certification (Bac+2 level) from Greta de Tours in July 2025. I combine technical skills with project management methodologies to create high-performance and innovative web solutions.
 
 ## 🎓 Education
-- Web and Mobile Development - Greta de Tours (ongoing)
+- **Web and Mobile Developer Certification** - Greta de Tours (July 2025) - Bac+2 level
 - Specialization in front-end and back-end technologies
 
 ## 💻 Technical Skills
