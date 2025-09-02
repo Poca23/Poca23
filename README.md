@@ -48,59 +48,70 @@ Passionate Web Developer currently undergoing training at Greta de Tours. I comb
 
 ## 🚀 Projects
 
-### 📌 Interactive Online Resume
-- **Technologies**: HTML, CSS, JavaScript, Responsive Design
-- **Description**: Modern and interactive presentation of my skills and experience
-  
-### 📌 Notification System
-- **Technologies**: HTML, CSS, JavaScript
-- **Design Tools**: Figma (Wireframes & Prototypes)
-- **Project Management**: Miro (Task and Workflow Management)
-- **Description**: Simple user interface for real-time notifications. Designed with **Figma** for prototyping and visual design, and managed through **Miro** for detailed task tracking and planning. The front-end solely uses **HTML**, **CSS**, and **JavaScript** for a lightweight yet dynamic experience.
-  
-### 📌 Visotech
-- **Technologies**: PHP, Laravel, MySQL, Tailwind CSS
-- **Description**: Exploration of innovative technological solutions
-- **Methodology**: Agile project management with detailed planning
+## **🏠 ReserveUnToit - Plateforme de Réservation Immobilière**
+**Technologies :** PHP, Laravel, MySQL, JavaScript, API, Filament, Breeze, Blade  
+**Description :** Plateforme de location avec système de réservation en temps réel. Intègre Breeze pour l'authentification, Blade pour le templating et Filament pour les fonctionnalités de gestion avancées. Planification précise et suivi des priorités.
 
-### 📌 E-commerce Platform
-- **Technologies**: React, Node.js, Express, MongoDB, REST API
-- **Description**: Complete e-commerce application with secure backend
-- **Management**: Rigorous deadline tracking and task prioritization
+---
 
-### 📌 Real Estate Booking Website
-- **Technologies**: PHP, Laravel, MySQL, JavaScript, API, Filament, Breeze, Blade
-- **Description**: Rental platform with real-time booking functionality, leveraging **Breeze** for authentication, **Blade** for templating, and **Filament** for advanced management features.
-- **Organization**: Precise planning and priority tracking
+## **🤖 ClickTalk - Chatbot avec Intelligence Artificielle**
+**Technologies :** React, Spring Boot, Java, MySQL  
+**Outils Design :** Figma (Wireframes & Prototypes)  
+**Gestion de Projet :** Miro (Gestion des tâches et workflows)  
+**Environnements :** Visual Studio Code, IntelliJ IDEA  
+**Description :** Chatbot utilisant l'apprentissage automatique pour fournir des réponses dynamiques et intelligentes. Interface React moderne connectée à un backend robuste Spring Boot avec stockage MySQL.
 
-### 📌 Chatbot with Machine Learning
-- **Technologies**: React, Spring Boot, Java, MySQL
-- **Design Tools**: Figma (Wireframes & Prototypes)
-- **Project Management**: Miro (Task and Workflow Management)
-- **Development Environment**: Visual Studio Code, IntelliJ IDEA
-- **Description**: A chatbot project that utilizes machine learning to provide dynamic and intelligent responses. Designed with an engaging front-end in React connected to a robust back-end in Spring Boot. MySQL was used for data storage. 
+---
 
-### 📌 PHPLaraverse - PHP & Laravel Learning Platform
-**Technologies:** Laravel 11, Blade, TailwindCSS, AlpineJS, Filament, SQLite/PostgreSQL
-**Description:** An immersive educational platform designed to guide developers through PHP basics to advanced Laravel development. The application features interactive lessons, practical exercises, real-time code validation, and a gamified learning experience with badges and progress tracking.
-**Progress:** Currently in active development with a modular architecture separating PHP and Laravel learning paths. The project implements:
-- Comprehensive user dashboard tracking learning progress
-- Admin panel powered by Filament for content management
-- Interactive coding exercises with real-time validation
-- Quizzes and assessments to reinforce knowledge
-- Forum functionality for community support
-**Architecture Highlights:**
-- Modular design with dedicated PHP and Laravel learning modules
-- Progressive learning paths from beginner to advanced concepts
-- Responsive design optimized for all devices
-- Test-driven development approach with PHPUnit and Laravel Dusk
-**Deployment:** The application is configured for deployment on Render with PostgreSQL database integration, featuring continuous deployment from the GitHub repository.
-**Future Enhancements:**
-- Expanding exercise libraries with more real-world scenarios
-- Advanced code playground with Laravel sandbox environments
-- Integration with GitHub for project submission and review
-- API documentation tools and interactive examples
-- Community-contributed content and learning resources
+## **🎮 Quest_Adventure - Jeu de Quête Interactif**
+**Technologies :** JavaScript, HTML5, CSS3  
+**Description :** Jeu d'aventure textuel interactif avec système de navigation et mécaniques de gameplay. Interface utilisateur responsive et expérience immersive.
+
+---
+
+## **📝 Transcripteur - Outil de Transcription**
+**Technologies :** JavaScript, API Web Speech  
+**Description :** Application utilitaire permettant la transcription audio vers texte. Interface intuitive pour la conversion et l'édition de contenus vocaux.
+
+---
+
+## **🤖 Nestor - Assistant IA de Gestion de Vie**
+**Technologies :** JavaScript, Node.js, Intelligence Artificielle  
+**Statut :** En construction  
+**Description :** Assistant intelligent intégré pour la gestion et l'organisation de la vie quotidienne. Utilise l'IA pour optimiser la planification et fournir des recommandations personnalisées.
+
+---
+
+## **✅ Clario - Gestionnaire de Tâches Moderne**
+**Technologies :** HTML5, CSS3, JavaScript  
+**Description :** Application TODOList avec interface moderne et responsive. Gestion complète des tâches avec fonctionnalités de tri, filtrage et persistance des données.
+
+---
+
+## **🏥 Ergothérapeute-site - Site Vitrine Professionnel**
+**Technologies :** HTML5, CSS3, JavaScript  
+**Statut :** En construction  
+**Description :** Site web professionnel pour cabinet d'ergothérapie. Design responsive, présentation des services et interface de contact optimisée.
+
+---
+
+## **📊 ManageProject - Gestionnaire de Projets**
+**Technologies :** JavaScript, Outils de gestion  
+**Description :** Plateforme de gestion de projets avec suivi des tâches, planification et collaboration d'équipe. Interface administrative complète.
+
+---
+
+## **🧪 Clatest - Guide d'Utilisation Multi-Générationnel**
+**Technologies :** HTML5, CSS3, JavaScript, Documentation interactive  
+**Description :** Guide d'utilisation complet de l'application Clario adapté à trois profils d'âge distincts (enfants, adultes, seniors). Interface pédagogique avec parcours personnalisé selon l'utilisateur.
+
+---
+
+## **📚 Mes-Cours-Cie - Plateforme Éducative**
+**Technologies :** HTML5, CSS3, JavaScript, Contenus pédagogiques  
+**Description :** Plateforme de contenu éducatif avec organisation de cours, matériel pédagogique et interface d'apprentissage interactive.
+
+---
 
 ## 🎯 Professional Goals
 - Strengthen my skills as a full stack developer
