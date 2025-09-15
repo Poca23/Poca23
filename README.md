@@ -48,6 +48,15 @@ Passionate Web Developer who earned Web and Mobile Developer certification (Bac+
 
 ## 🚀 Projects
 
+---
+
+## **🖥️ Ubuntu Multi-Stack Dev Environment - Development Workstation Setup**
+**Technologies:** Ubuntu 24.04 LTS, Docker, Python, Node.js, PHP, Java, MySQL, PostgreSQL
+**Tools:** SSH Configuration, Docker Containerization, Multiple DBMS, Dual-Boot Configuration
+**Description:** Complete transformation of ThinkPad P53 into professional development station. Multi-stack environment supporting AI development with Python data science stack, modern JavaScript frameworks, PHP Laravel, Java Spring Boot, and containerized deployment solutions.
+
+---
+
 ## **🏠 ReserveUnToit - Real Estate Booking Platform**
 **Technologies:** PHP, Laravel, MySQL, JavaScript, API, Filament, Breeze, Blade  
 **Description:** Rental platform with real-time booking functionality. Integrates Breeze for authentication, Blade for templating, and Filament for advanced management features. Precise planning and priority tracking.
