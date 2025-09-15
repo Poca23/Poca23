@@ -49,6 +49,15 @@ Passionate Web Developer who earned Web and Mobile Developer certification (Bac+
 ## 🚀 Projects
 
 ---
+
+## **💼 Portfolio-Claire - Professional Portfolio**
+**Technologies:** Next.js, TypeScript, Laravel, Tailwind CSS, PHP
+
+**Architecture:** Full-Stack Hybrid
+
+**Description:** Modern professional portfolio featuring Next.js frontend with TypeScript and Laravel backend. Showcases development projects with responsive design, dynamic content management, and optimized deployment structure.
+
+---
 ## **📝TextCraft - Universal Text Editor**
 **Technologies:** HTML5, CSS3, JavaScript, PWA, Google Fonts, PDF Export
 
