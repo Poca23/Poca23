@@ -53,6 +53,7 @@ Passionate Web Developer who earned Web and Mobile Developer certification (Bac+
 **Technologies** HTML5, CSS3, JavaScript, PWA, Google Fonts, PDF Export
 **Tools** LocalStorage, Service Worker, Responsive Design, Cloud Sync Integration
 **Description** Modern lightweight text editor with WYSIWYG interface, PDF export functionality, cloud synchronization, and complete offline operation. Features real-time statistics, auto-save, document history, and cross-platform PWA installation.
+https://poca23.github.io/TextCraft/
 
 ---
 
