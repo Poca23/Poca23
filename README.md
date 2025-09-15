@@ -81,21 +81,6 @@ environment supporting AI development with Python data science stack, modern Jav
 
 ---
 
-## **🏠 ReserveUnToit - Real Estate Booking Platform**
-**Technologies:** PHP, Laravel, MySQL, JavaScript, API, Filament, Breeze, Blade  
-**Description:** Rental platform with real-time booking functionality. Integrates Breeze for authentication, Blade for templating, and Filament for advanced management features. Precise planning and priority tracking.
-
----
-
-## **🤖 ClickTalk - AI-Powered Chatbot**
-**Technologies:** React, Spring Boot, Java, MySQL  
-**Design Tools:** Figma (Wireframes & Prototypes)  
-**Project Management:** Miro (Task and Workflow Management)  
-**Development Environment:** Visual Studio Code, IntelliJ IDEA  
-**Description:** Chatbot utilizing machine learning to provide dynamic and intelligent responses. Modern React frontend connected to a robust Spring Boot backend with MySQL data storage.
-
----
-
 ## **🎮 Quest_Adventure - Interactive Quest Game**
 **Technologies:** JavaScript, HTML5, CSS3  
 **Description:** Interactive text-based adventure game with navigation system and gameplay mechanics. Responsive user interface with immersive experience.
@@ -124,6 +109,13 @@ https://poca23.github.io/Clario/
 
 ---
 
+## **🧪 Clatest - Multi-Generational User Guide**
+**Technologies:** HTML5, CSS3, JavaScript, Interactive Documentation  
+**Description:** Comprehensive user guide for the Clario application adapted to three distinct age profiles (children, adults, seniors). Educational interface with personalized user paths.
+https://poca23.github.io/Clatest/
+
+---
+
 ## **🏥 Ergotherapeute-site - Professional Website**
 **Technologies:** HTML5, CSS3, JavaScript  
 **Status:** Under Construction  
@@ -138,18 +130,27 @@ https://poca23.github.io/ManageProject/
 
 ---
 
-## **🧪 Clatest - Multi-Generational User Guide**
-**Technologies:** HTML5, CSS3, JavaScript, Interactive Documentation  
-**Description:** Comprehensive user guide for the Clario application adapted to three distinct age profiles (children, adults, seniors). Educational interface with personalized user paths.
-https://poca23.github.io/Clatest/
-
----
-
 ## **📚 Mes-Cours-Cie - Educational Platform**
 **Technologies:** HTML5, CSS3, JavaScript, Educational Content  
 **Description:** Educational content platform with course organization, teaching materials, and interactive learning interface.
 https://mescoursandcie.netlify.app/
 
+---
+
+## **🏠 ReserveUnToit - Real Estate Booking Platform**
+**Technologies:** PHP, Laravel, MySQL, JavaScript, API, Filament, Breeze, Blade  
+**Description:** Rental platform with real-time booking functionality. Integrates Breeze for authentication, Blade for templating, and Filament for advanced management features. Precise planning and priority tracking.
+
+---
+
+## **🤖 ClickTalk - AI-Powered Chatbot**
+**Technologies:** React, Spring Boot, Java, MySQL  
+**Design Tools:** Figma (Wireframes & Prototypes)  
+**Project Management:** Miro (Task and Workflow Management)  
+**Development Environment:** Visual Studio Code, IntelliJ IDEA  
+**Description:** Chatbot utilizing machine learning to provide dynamic and intelligent responses. Modern React frontend connected to a robust Spring Boot backend with MySQL data storage.
+
+---
 ---
 
 ## 🎯 Professional Goals
