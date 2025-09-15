@@ -50,9 +50,10 @@ Passionate Web Developer who earned Web and Mobile Developer certification (Bac+
 
 ---
 ## **📝TextCraft - Universal Text Editor**
-**Technologies** HTML5, CSS3, JavaScript, PWA, Google Fonts, PDF Export
-**Tools** LocalStorage, Service Worker, Responsive Design, Cloud Sync Integration
-**Description** Modern lightweight text editor with WYSIWYG interface, PDF export functionality, cloud synchronization, and complete offline operation. Features real-time statistics, auto-save, document history, and cross-platform PWA installation.
+**Technologies:** HTML5, CSS3, JavaScript, PWA, Google Fonts, PDF Export
+**Tools:** LocalStorage, Service Worker, Responsive Design, Cloud Sync Integration
+**Description:** Modern lightweight text editor with WYSIWYG interface, PDF export functionality, cloud
+synchronization, and complete offline operation. Features real-time statistics, auto-save, document history, and cross-platform PWA installation.
 https://poca23.github.io/TextCraft/
 
 ---
@@ -60,7 +61,8 @@ https://poca23.github.io/TextCraft/
 ## **🖥️ Ubuntu Multi-Stack Dev Environment - Development Workstation Setup**
 **Technologies:** Ubuntu 24.04 LTS, Docker, Python, Node.js, PHP, Java, MySQL, PostgreSQL
 **Tools:** SSH Configuration, Docker Containerization, Multiple DBMS, Dual-Boot Configuration
-**Description:** Complete transformation of ThinkPad P53 into professional development station. Multi-stack environment supporting AI development with Python data science stack, modern JavaScript frameworks, PHP Laravel, Java Spring Boot, and containerized deployment solutions.
+**Description:** Complete transformation of ThinkPad P53 into professional development station. Multi-stack 
+environment supporting AI development with Python data science stack, modern JavaScript frameworks, PHP Laravel, Java Spring Boot, and containerized deployment solutions.
 
 ---
 
