@@ -67,6 +67,7 @@ Passionate Web Developer who earned Web and Mobile Developer certification (Bac+
 
 **Description:** Modern lightweight text editor with WYSIWYG interface, PDF export functionality, cloud
 synchronization, and complete offline operation. Features real-time statistics, auto-save, document history, and cross-platform PWA installation.
+
 https://poca23.github.io/TextCraft/
 
 ---
@@ -84,6 +85,7 @@ environment supporting AI development with Python data science stack, modern Jav
 ## **🎮 Quest_Adventure - Interactive Quest Game**
 **Technologies:** JavaScript, HTML5, CSS3  
 **Description:** Interactive text-based adventure game with navigation system and gameplay mechanics. Responsive user interface with immersive experience.
+
 https://poca23.github.io/Quest_Adventure/
 
 ---
@@ -91,6 +93,7 @@ https://poca23.github.io/Quest_Adventure/
 ## **📝 Transcripteur - Transcription Tool**
 **Technologies:** JavaScript, Web Speech API  
 **Description:** Utility application for audio-to-text transcription. Intuitive interface for voice content conversion and editing.
+
 https://poca23.github.io/Transcripteur/
 
 ---
@@ -105,6 +108,7 @@ https://poca23.github.io/Transcripteur/
 ## **✅ Clario - Modern Task Manager**
 **Technologies:** HTML5, CSS3, JavaScript  
 **Description:** TODOList application with modern and responsive interface. Complete task management with sorting, filtering, and data persistence features.
+
 https://poca23.github.io/Clario/
 
 ---
@@ -112,14 +116,19 @@ https://poca23.github.io/Clario/
 ## **🧪 Clatest - Multi-Generational User Guide**
 **Technologies:** HTML5, CSS3, JavaScript, Interactive Documentation  
 **Description:** Comprehensive user guide for the Clario application adapted to three distinct age profiles (children, adults, seniors). Educational interface with personalized user paths.
+
 https://poca23.github.io/Clatest/
 
 ---
 
-## **🏥 Ergotherapeute-site - Professional Website**
-**Technologies:** HTML5, CSS3, JavaScript  
-**Status:** Under Construction  
-**Description:** Professional website for occupational therapy practice. Responsive design, service presentation, and optimized contact interface.
+## **🏥 Ergotherapeute-site - Professional Healthcare Website**
+**Technologies:** HTML5, CSS3, JavaScript, PWA, SPA, SEO
+
+**Tools:** Service Worker, Web App Manifest, JSON-LD Schema, Responsive Design
+
+**Description:** Modern single-page application for occupational therapy practice specializing in pediatrics and geriatrics. Features progressive web app capabilities, real-time form validation, dynamic SEO optimization, and mobile-first responsive design. Complete offline functionality with installable app experience.
+
+https://ergotherapeuthe-decherf.netlify.app/#accueil
 
 ---
 
