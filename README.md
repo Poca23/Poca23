@@ -124,7 +124,7 @@ https://poca23.github.io/Clatest/
 ## **🏥 Ergotherapeute-site - Professional Healthcare Website**
 **Technologies:** HTML5, CSS3, JavaScript, PWA, SPA, SEO
 
-**Tools:** Service Worker, Web App Manifest, JSON-LD Schema, Responsive Design
+**Tools:** Service Worker, Web App Manifest, JSON-LD Schema, Responsive Design, emailJS
 
 **Description:** Modern single-page application for occupational therapy practice specializing in pediatrics and geriatrics. Features progressive web app capabilities, real-time form validation, dynamic SEO optimization, and mobile-first responsive design. Complete offline functionality with installable app experience.
 
