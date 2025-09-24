@@ -60,6 +60,18 @@ Passionate Web Developer who earned Web and Mobile Developer certification (Bac+
 **Description:** Modern professional portfolio featuring Next.js frontend with TypeScript and Laravel backend. Showcases development projects with responsive design, dynamic content management, and optimized deployment structure.
 
 ---
+
+## **🚗 Simulateur d'Assurances Auto - Insurance Quote Simulator**
+**Technologies:** Python, Streamlit, Pandas, Plotly, JSON
+
+**Tools:** Responsive UI, Dynamic Data Loading, Real-time Calculations, Git Deployment
+
+**Description:* Professional insurance quotation simulator for Saint-Pierre Assurances brokerage. Features dynamic vehicle database with 13 brands and 37+ models, intelligent pricing engine with realistic coefficients (0.6-1.8), and comprehensive driver profiling system. Generates instant quotes with detai*led breakdowns and personalized recommendations for automotive insurance products.
+
+**Live Demo:** https://poca23-simulateur-d-assurances-auto-app-pudty0.streamlit.app/
+
+
+---
 ## **📝TextCraft - Universal Text Editor**
 **Technologies:** HTML5, CSS3, JavaScript, PWA, Google Fonts, PDF Export
 
