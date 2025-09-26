@@ -50,7 +50,7 @@ Passionate Web Developer who earned Web and Mobile Developer certification (Bac+
 
 ---
 
-## **💼 Portfolio-Claire - Professional Portfolio**
+## **💼 Portfolio Professional**
 **Technologies:** Next.js, TypeScript, Laravel, Tailwind CSS, PHP
 
 **Status:** Under Construction
