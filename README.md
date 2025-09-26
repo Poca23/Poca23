@@ -171,6 +171,7 @@ https://github.com/Poca23/ReserveUnToit
 **Project Management:** Miro (Task and Workflow Management)  
 **Development Environment:** Visual Studio Code, IntelliJ IDEA  
 **Description:** Chatbot utilizing machine learning to provide dynamic and intelligent responses. Modern React frontend connected to a robust Spring Boot backend with MySQL data storage.
+https://github.com/Clicktalk-group
 
 ---
 ---
