@@ -66,7 +66,7 @@ Passionate Web Developer who earned Web and Mobile Developer certification (Bac+
 
 **Tools:** Responsive UI, Dynamic Data Loading, Real-time Calculations, Git Deployment
 
-**Description:* Professional insurance quotation simulator for Saint-Pierre Assurances brokerage. Features dynamic vehicle database with 13 brands and 37+ models, intelligent pricing engine with realistic coefficients (0.6-1.8), and comprehensive driver profiling system. Generates instant quotes with detai*led breakdowns and personalized recommendations for automotive insurance products.
+**Description:** Professional insurance quotation simulator. Features dynamic vehicle database with 13 brands and 37+ models, intelligent pricing engine with realistic coefficients (0.6-1.8), and comprehensive driver profiling system. Generates instant quotes with detai*led breakdowns and personalized recommendations for automotive insurance products.
 
 **Live Demo:** https://poca23-simulateur-d-assurances-auto-app-pudty0.streamlit.app/
 
