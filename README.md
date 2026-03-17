@@ -12,9 +12,9 @@
 **Ex-manager équestre reconvertie dans le code — avec la même rigueur.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--cnd.netlify.app-blueviolet?style=for-the-badge&logo=netlify)](https://portfolio-cnd.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Claire%20Naudin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naudin-claire)
-[![Email](https://img.shields.io/badge/Email-cndweb37%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:cndweb37@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Poca23-181717?style=for-the-badge&logo=github)](https://github.com/Poca23)
+&nbsp;&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Claire%20Naudin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naudin-claire)
+&nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-cndweb37%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:cndweb37@gmail.com)
+&nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-Poca23-181717?style=for-the-badge&logo=github)](https://github.com/Poca23)
 
 </div>
 
@@ -86,8 +86,8 @@
 | 📊 | **Simulateur d'assurance** | Python · Streamlit · Plotly · Pandas | [live](https://poca23-simulateur-d-assurances-auto-app-pudty0.streamlit.app/) |
 | 🤖 | **ClickTalk** | React · Spring Boot · Java · MySQL | [org](https://github.com/Clicktalk-group) |
 | 🎮 | **CREATE_GAME** | GDScript · Godot | [repo](https://github.com/Poca23/CREATE_GAME) |
-| 🌟 | **Portfolio CND** | Next.js · TypeScript · Tailwind · PWA | [live](https://portfolio-cnd.netlify.app/) |
-| 🐱 | **Crispouille** | JS · CSS · HTML5 | [live](https://crispouille-cnd.netlify.app/) |
+| 🌟 | **Portfolio CND** | React · TypeScript · Tailwind · PWA | [live](https://portfolio-cnd.netlify.app/) |
+| 🐱 | **Crispouille** | JS · CSS · HTML5 · PWA | [live](https://crispouille-cnd.netlify.app/) |
 
 ---
 
