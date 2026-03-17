@@ -1,191 +1,249 @@
-# Claire Naudin | Full Stack Web Developer
-
-## 🧰 About Me
-Passionate Web Developer who earned Web and Mobile Developer certification (Bac+2 level) from Greta de Tours in July 2025. I combine technical skills with project management methodologies to create high-performance and innovative web solutions.
-
-## 🎓 Education
-- **Web and Mobile Developer Certification** - Greta de Tours (July 2025) - Bac+2 level
-- Specialization in front-end and back-end technologies
-
-## 💻 Technical Skills
-
-### 🌐 Front-end Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js)](https://skillicons.dev)
-
-### 💻 Back-end Languages
-[![My Skills](https://skillicons.dev/icons?i=java,php,python,nodejs)](https://skillicons.dev)
-
-### 🛠️ Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,laravel,tailwind,materialui,spring)](https://skillicons.dev)
-- Spring Boot
-- Blade
-- Breeze
-- Filament
-
-### 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
-
-### 🔄 APIs & Integrations
-[![My Skills](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
-- REST API
-
-### 🧰 Development Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,maven,vscode,idea,webstorm,npm)](https://skillicons.dev)
-- Tinker
-- Workbench
-
-### 🚀 Deployment Platforms
-[![My Skills](https://skillicons.dev/icons?i=vercel,netlify,github)](https://skillicons.dev)
-
-### 🌐 CMS (Content Management Systems)
-[![My Skills](https://skillicons.dev/icons?i=wordpress)](https://skillicons.dev)
-- Wix
-
-### 🎨 Design & Project Management
-[![My Skills](https://skillicons.dev/icons?i=figma,sketchup,notion)](https://skillicons.dev)
-- Miro
-- Trello
-
-## 🚀 Projects
+<!-- LANGUE / LANGUAGE -->
+[![🇫🇷 Français](#-version-française)](#-version-française) &nbsp;&nbsp;
+[![🇬🇧 English](#-english-version)](#-english-version)
 
 ---
 
-## **💼 Portfolio Professional**
-**Technologies:** Next.js, TypeScript, Laravel, Tailwind CSS, PHP
+<a name="-version-française"></a>
 
-**Status:** Under Construction
+<div align="center">
 
-**Architecture:** Full-Stack Hybrid
+# Claire Naudin · Développeuse Full Stack
 
-**Description:** Modern professional portfolio featuring Next.js frontend with TypeScript and Laravel backend. Showcases development projects with responsive design, dynamic content management, and optimized deployment structure.
+**Ex-manager équestre reconvertie dans le code — avec la même rigueur.**
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--cnd.netlify.app-blueviolet?style=for-the-badge&logo=netlify)](https://portfolio-cnd.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Claire%20Naudin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naudin-claire)
+[![Email](https://img.shields.io/badge/Email-cndweb37%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:cndweb37@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Poca23-181717?style=for-the-badge&logo=github)](https://github.com/Poca23)
 
-## **🚗 Simulateur d'Assurances Auto - Insurance Quote Simulator**
-**Technologies:** Python, Streamlit, Pandas, Plotly, JSON
-
-**Tools:** Responsive UI, Dynamic Data Loading, Real-time Calculations, Git Deployment
-
-**Description:** Professional insurance quotation simulator. Features dynamic vehicle database with 13 brands and 37+ models, intelligent pricing engine with realistic coefficients (0.6-1.8), and comprehensive driver profiling system. Generates instant quotes with detai*led breakdowns and personalized recommendations for automotive insurance products.
-
-**Live Demo:** https://poca23-simulateur-d-assurances-auto-app-pudty0.streamlit.app/
-
-
----
-## **📝TextCraft - Universal Text Editor**
-**Technologies:** HTML5, CSS3, JavaScript, PWA, Google Fonts, PDF Export
-
-**Tools:** LocalStorage, Service Worker, Responsive Design, Cloud Sync Integration
-
-**Description:** Modern lightweight text editor with WYSIWYG interface, PDF export functionality, cloud
-synchronization, and complete offline operation. Features real-time statistics, auto-save, document history, and cross-platform PWA installation.
-
-https://poca23.github.io/TextCraft/
+</div>
 
 ---
 
-## **🖥️ Ubuntu Multi-Stack Dev Environment - Development Workstation Setup**
-**Technologies:** Ubuntu 24.04 LTS, Docker, Python, Node.js, PHP, Java, MySQL, PostgreSQL
+### 👩‍💻 Qui suis-je ?
 
-**Tools:** SSH Configuration, Docker Containerization, Multiple DBMS, Dual-Boot Configuration
+🎓 **Bac+2** — Titre DWWM · Greta de Tours · 2025
+📚 **Bac+3 en cours** — CDA · Live Campus · 2026–2027
+💼 **Alternance CDA** · 3 semaines entreprise / 1 semaine école · dès que possible
+📍 **Indre-et-Loire (37) · Vienne (86) · Full Remote**
 
-**Description:** Complete transformation of ThinkPad P53 into professional development station. Multi-stack 
-environment supporting AI development with Python data science stack, modern JavaScript frameworks, PHP Laravel, Java Spring Boot, and containerized deployment solutions.
-
----
-
-## **🎮 Quest_Adventure - Interactive Quest Game**
-**Technologies:** JavaScript, HTML5, CSS3  
-**Description:** Interactive text-based adventure game with navigation system and gameplay mechanics. Responsive user interface with immersive experience.
-
-https://poca23.github.io/Quest_Adventure/
+> *"Je construis des solutions web complètes, maintenables et centrées utilisateur — de l'idée au déploiement."*
 
 ---
 
-## **📝 Transcripteur - Transcription Tool**
-**Technologies:** JavaScript, Web Speech API  
-**Description:** Utility application for audio-to-text transcription. Intuitive interface for voice content conversion and editing.
+### 🛠️ Stack Technique
 
-https://poca23.github.io/Transcripteur/
+**Frontend**
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
-## **🤖 Nestor - AI Life Management Assistant**
-**Technologies:** JavaScript, Node.js, Artificial Intelligence  
-**Status:** Under Construction  
-**Description:** Integrated intelligent assistant for daily life management and organization. Uses AI to optimize planning and provide personalized recommendations.
+**Backend**
 
----
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-## **✅ Clario - Modern Task Manager**
-**Technologies:** HTML5, CSS3, JavaScript  
-**Description:** TODOList application with modern and responsive interface. Complete task management with sorting, filtering, and data persistence features.
+**Bases de données & Outils**
 
-https://poca23.github.io/Clario/
-
----
-
-## **🧪 Clatest - Multi-Generational User Guide**
-**Technologies:** HTML5, CSS3, JavaScript, Interactive Documentation  
-**Description:** Comprehensive user guide for the Clario application adapted to three distinct age profiles (children, adults, seniors). Educational interface with personalized user paths.
-
-https://poca23.github.io/Clatest/
-
----
-
-## **🏥 Ergotherapeute-site - Professional Healthcare Website**
-**Technologies:** HTML5, CSS3, JavaScript, PWA, SPA, SEO
-
-**Tools:** Service Worker, Web App Manifest, JSON-LD Schema, Responsive Design, emailJS
-
-**Description:** Modern single-page application for occupational therapy practice specializing in pediatrics and geriatrics. Features progressive web app capabilities, real-time form validation, dynamic SEO optimization, and mobile-first responsive design. Complete offline functionality with installable app experience.
-
-https://ergotherapeuthe-decherf.netlify.app/#accueil
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
-## **📊 ManageProject - Project Management Platform**
-**Technologies:** JavaScript, Management Tools  
-**Description:** Project management platform with task tracking, planning, and team collaboration. Complete administrative interface.
-https://poca23.github.io/ManageProject/
+### 🚀 Projets Phares
+
+| # | Projet | Stack | Lien |
+|---|--------|-------|------|
+| 🐾 | **Wapan** | JS · CSS · HTML5 · PWA | [live]([https://github.com/Poca23/wapan](https://wapan-cnd.netlify.app/)) |
+| 🦄 | **TP Site E-commerce** | PHP · MVC · Docker · Ubuntu | [repo](https://github.com/Poca23/TP-SITE-ECOMMERCE) |
+| 🩺 | **Ergothérapeute** | HTML5 · PWA · SEO · SPA | [live](https://ergotherapeute-decherf.netlify.app/) |
+| 🔐 | **CryptoWatcher** | PWA · AES-256-GCM · Web Crypto API | [live](https://cryptowatcher-cnd.netlify.app/) |
+| ⏱️ | **InterimExpress** | PWA · JS · Firebase · PWA | [live](https://interimexpress-cnd.netlify.app/) |
+| 🎙️ | **Transcripteur** | JS · Web Speech API | [live](https://transcripteur-cnd.netlify.app/) |
+| 📦 | **InventExpress** | PWA · html5-qrcode · Firebase | [live](https://inventexpress-cnd.netlify.app/index.html) |
+| ➗ | **MathéMagic** | JS · HTML5 · CSS3 | [live](https://mathemagic-cnd.netlify.app/) |
+| ✅ | **Clario** | JS · HTML5 · CSS3 · PWA | [live](https://poca23.github.io/Clario/) |
+| 🌍 | **Git Interactif** | HTML5 · JS · PWA | [live](https://git-interactive-visualizer.netlify.app/) |
+| 🐳 | **Docker Interactif** | HTML5 · JS · CSS3 · PWA | [live](https://docker-interactive-visualizer.netlify.app/) |
+| 🏠 | **ReserveUnToit** | Laravel · MySQL · Filament · Breeze · Livewire · ORM | [repo](https://github.com/Poca23/ReserveUnToit) |
+| 📊 | **Simulateur d'assurance** | Python · Streamlit · Plotly · Pandas | [live](https://poca23-simulateur-d-assurances-auto-app-pudty0.streamlit.app/) |
+| 🤖 | **ClickTalk** | React · Spring Boot · Java · MySQL | [org](https://github.com/Clicktalk-group) |
+| 🎮 | **CREATE_GAME** | GDScript · Godot | [repo](https://github.com/Poca23/CREATE_GAME) |
+| 🌟 | **Portfolio CND** | Next.js · TypeScript · Tailwind · PWA | [live](https://portfolio-cnd.netlify.app/) |
+| 🐱 | **Crispouille** | JS · CSS · HTML5 | [live](https://crispouille-cnd.netlify.app/) |
 
 ---
 
-## **📚 Mes-Cours-Cie - Educational Platform**
-**Technologies:** HTML5, CSS3, JavaScript, Educational Content  
-**Description:** Educational content platform with course organization, teaching materials, and interactive learning interface.
-https://mescoursandcie.netlify.app/
+### 📈 Activité GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poca23&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poca23&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+> 722 contributions en 2024 · 1 168 en 2025 · 632 en 2026 (en cours)
 
 ---
 
-## **🏠 ReserveUnToit - Real Estate Booking Platform**
-**Technologies:** PHP, Laravel, MySQL, JavaScript, API, Filament, Breeze, Blade  
-**Description:** Rental platform with real-time booking functionality. Integrates Breeze for authentication, Blade for templating, and Filament for advanced management features. Precise planning and priority tracking.
-https://github.com/Poca23/ReserveUnToit
+### 💼 Expérience
+
+**🔹 Développeuse Junior / Product Owner** · [InnovQube](https://innovqube.com/) · Mars – Juin 2025
+- Développement composants React, intégration Leaflet, debug Stripe & webhooks
+- Gestion sprints Agile, backlogs, documentation technique
+
+**🔹 CND – Web is Yours** · Depuis mars 2024
+- 30+ projets déployés : applications web, PWA, jeux, outils 3D, plateformes
 
 ---
 
-## **🤖 ClickTalk - AI-Powered Chatbot**
-**Technologies:** React, Spring Boot, Java, MySQL  
-**Design Tools:** Figma (Wireframes & Prototypes)  
-**Project Management:** Miro (Task and Workflow Management)  
-**Development Environment:** Visual Studio Code, IntelliJ IDEA  
-**Description:** Chatbot utilizing machine learning to provide dynamic and intelligent responses. Modern React frontend connected to a robust Spring Boot backend with MySQL data storage.
+<div align="center">
 
-https://github.com/Clicktalk-group
+*"Je transforme mon expérience terrain et mes compétences full-stack en solutions techniques concrètes."*
+
+**Claire Naudin · [cndweb37@gmail.com](mailto:cndweb37@gmail.com)**
+
+</div>
 
 ---
 ---
 
-## 🎯 Professional Goals
-- Strengthen my skills as a full stack developer
-- Implement best practices in project management and organization
-- Contribute to impactful technological projects
-- Refine my expertise in software architecture
+<a name="-english-version"></a>
 
-## 📫 Contact
-cndweb37@gmail.com
+<div align="center">
+
+# Claire Naudin · Full Stack Developer
+
+**Former equestrian manager turned developer — same rigor, new stack.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--cnd.netlify.app-blueviolet?style=for-the-badge&logo=netlify)](https://portfolio-cnd.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Claire%20Naudin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/naudin-claire)
+[![Email](https://img.shields.io/badge/Email-cndweb37%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:cndweb37@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Poca23-181717?style=for-the-badge&logo=github)](https://github.com/Poca23)
+
+</div>
 
 ---
 
-👩‍💻 Constantly learning | 🚀 Passionate about new technologies | 🌟 Solution-oriented
+### 👩‍💻 About Me
+
+🎓 **Bac+2** — DWWM Certification · Greta de Tours · 2025
+📚 **Bac+3 in progress** — CDA · Live Campus · 2026–2027
+💼 **Seeking work-study contract** · 3 weeks company / 1 week school · available now
+📍 **Indre-et-Loire (37) · Vienne (86) · Full Remote**
+
+> *"I build complete, maintainable, user-centered web solutions — from idea to deployment."*
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Databases & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| # | Project | Stack | Link |
+|---|---------|-------|------|
+| 🐾 | **Wapan** | JS · CSS · HTML5 · PWA | [live]([https://github.com/Poca23/wapan](https://wapan-cnd.netlify.app/)) |
+| 🦄 | **TP E-commerce Site** | PHP · MVC · Docker · Ubuntu | [repo](https://github.com/Poca23/TP-SITE-ECOMMERCE) |
+| 🩺 | **Ergothérapeute** | HTML5 · PWA · SEO · SPA | [live](https://ergotherapeute-decherf.netlify.app/) |
+| 🔐 | **CryptoWatcher** | PWA · AES-256-GCM · Web Crypto API | [live](https://cryptowatcher-cnd.netlify.app/) |
+| ⏱️ | **InterimExpress** | PWA · JS · Firebase · PWA | [live](https://interimexpress-cnd.netlify.app/) |
+| 🎙️ | **Transcripteur** | JS · Web Speech API | [live](https://transcripteur-cnd.netlify.app/) |
+| 📦 | **InventExpress** | PWA · html5-qrcode · Firebase | [live](https://inventexpress-cnd.netlify.app/index.html) |
+| ➗ | **MathéMagic** | JS · HTML5 · CSS3 · PWA | [live](https://mathemagic-cnd.netlify.app/) |
+| ✅ | **Clario** | JS · HTML5 · CSS3 · PWA | [live](https://poca23.github.io/Clario/) |
+| 🌍 | **Git Interactive** | HTML5 · JS · PWA | [live](https://git-interactive-visualizer.netlify.app/) |
+| 🐳 | **Docker Explainer** | HTML5 · JS · CSS3 · PWA | [live](https://docker-interactive-visualizer.netlify.app/) |
+| 🏠 | **ReserveUnToit** | Laravel · MySQL · Filament · Breeze · Livewire · ORM | [repo](https://github.com/Poca23/ReserveUnToit) |
+| 📊 | **Insurance Simulator** | Python · Streamlit · Plotly · Pandas | [live](https://poca23-simulateur-d-assurances-auto-app-pudty0.streamlit.app/) |
+| 🤖 | **ClickTalk** | React · Spring Boot · Java · MySQL | [org](https://github.com/Clicktalk-group) |
+| 🎮 | **CREATE_GAME** | GDScript · Godot | [repo](https://github.com/Poca23/CREATE_GAME) |
+| 🌟 | **Portfolio CND** | React · TypeScript · Tailwind · PWA | [live](https://portfolio-cnd.netlify.app/) |
+| 🐱 | **Crispouille** | JS · CSS · HTML5 · PWA | [live](https://crispouille-cnd.netlify.app/) |
+
+---
+
+
+### 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poca23&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poca23&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+> 722 contributions in 2024 · 1,168 in 2025 · 632 in 2026 (ongoing)
+
+---
+
+### 💼 Experience
+
+**🔹 Junior Developer / Product Owner** · [InnovQube](https://innovqube.com/) · Mar – Jun 2025
+- React components, Leaflet integration, Stripe & webhook debugging
+- Agile sprint management, backlogs, technical documentation
+
+**🔹 CND – Web is Yours** · Since March 2024
+- 30+ deployed projects: web apps, PWAs, games, 3D tools, platforms
+
+---
+
+<div align="center">
+
+*"I turn my field experience and full-stack skills into concrete technical solutions for your business."*
+
+**Claire Naudin · [cndweb37@gmail.com](mailto:cndweb37@gmail.com)**
+
+</div>
