@@ -1,6 +1,5 @@
 <!-- LANGUE / LANGUAGE -->
-[![🇫🇷 Français](#-version-française)](#-version-française) &nbsp;&nbsp;
-[![🇬🇧 English](#-english-version)](#-english-version)
+🇫🇷 [Français](#-version-française) &nbsp;&nbsp; 🇬🇧 [English](#-english-version)
 
 ---
 
