@@ -94,13 +94,6 @@
 
 ### 📈 Activité GitHub
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poca23&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poca23&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 > 722 contributions en 2024 · 1 168 en 2025 · 632 en 2026 (en cours)
 
 ---
@@ -217,13 +210,6 @@
 ---
 
 ### 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poca23&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poca23&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 > 722 contributions in 2024 · 1,168 in 2025 · 632 in 2026 (ongoing)
 
