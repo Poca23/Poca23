@@ -71,11 +71,11 @@
 
 | # | Projet | Stack | Lien |
 |---|--------|-------|------|
-| 🐾 | **Wapan** | JS · CSS · HTML5 · PWA | [live]([https://github.com/Poca23/wapan](https://wapan-cnd.netlify.app/)) |
+| 🐾 | **Wapan** | JS · CSS · HTML5 · PWA | [live](https://wapan-cnd.netlify.app/) |
 | 🦄 | **TP Site E-commerce** | PHP · MVC · Docker · Ubuntu | [repo](https://github.com/Poca23/TP-SITE-ECOMMERCE) |
 | 🩺 | **Ergothérapeute** | HTML5 · PWA · SEO · SPA | [live](https://ergotherapeute-decherf.netlify.app/) |
 | 🔐 | **CryptoWatcher** | PWA · AES-256-GCM · Web Crypto API | [live](https://cryptowatcher-cnd.netlify.app/) |
-| ⏱️ | **InterimExpress** | PWA · JS · Firebase · PWA | [live](https://interimexpress-cnd.netlify.app/) |
+| ⏱️ | **InterimExpress** | PWA · JS · Firebase | [live](https://interimexpress-cnd.netlify.app/) |
 | 🎙️ | **Transcripteur** | JS · Web Speech API | [live](https://transcripteur-cnd.netlify.app/) |
 | 📦 | **InventExpress** | PWA · html5-qrcode · Firebase | [live](https://inventexpress-cnd.netlify.app/index.html) |
 | ➗ | **MathéMagic** | JS · HTML5 · CSS3 | [live](https://mathemagic-cnd.netlify.app/) |
@@ -88,6 +88,7 @@
 | 🎮 | **CREATE_GAME** | GDScript · Godot | [repo](https://github.com/Poca23/CREATE_GAME) |
 | 🌟 | **Portfolio CND** | React · TypeScript · Tailwind · PWA | [live](https://portfolio-cnd.netlify.app/) |
 | 🐱 | **Crispouille** | JS · CSS · HTML5 · PWA | [live](https://crispouille-cnd.netlify.app/) |
+| 📐 | **Cours Merise & UML** | HTML5 · JS · CSS3 · PWA | [live](https://merise-uml.netlify.app/) |
 
 ---
 
@@ -194,55 +195,7 @@
 
 | # | Project | Stack | Link |
 |---|---------|-------|------|
-| 🐾 | **Wapan** | JS · CSS · HTML5 · PWA | [live]([https://github.com/Poca23/wapan](https://wapan-cnd.netlify.app/)) |
+| 🐾 | **Wapan** | JS · CSS · HTML5 · PWA | [live](https://wapan-cnd.netlify.app/) |
 | 🦄 | **TP E-commerce Site** | PHP · MVC · Docker · Ubuntu | [repo](https://github.com/Poca23/TP-SITE-ECOMMERCE) |
 | 🩺 | **Ergothérapeute** | HTML5 · PWA · SEO · SPA | [live](https://ergotherapeute-decherf.netlify.app/) |
-| 🔐 | **CryptoWatcher** | PWA · AES-256-GCM · Web Crypto API | [live](https://cryptowatcher-cnd.netlify.app/) |
-| ⏱️ | **InterimExpress** | PWA · JS · Firebase · PWA | [live](https://interimexpress-cnd.netlify.app/) |
-| 🎙️ | **Transcripteur** | JS · Web Speech API | [live](https://transcripteur-cnd.netlify.app/) |
-| 📦 | **InventExpress** | PWA · html5-qrcode · Firebase | [live](https://inventexpress-cnd.netlify.app/index.html) |
-| ➗ | **MathéMagic** | JS · HTML5 · CSS3 · PWA | [live](https://mathemagic-cnd.netlify.app/) |
-| ✅ | **Clario** | JS · HTML5 · CSS3 · PWA | [live](https://poca23.github.io/Clario/) |
-| 🌍 | **Git Interactive** | HTML5 · JS · PWA | [live](https://git-interactive-visualizer.netlify.app/) |
-| 🐳 | **Docker Explainer** | HTML5 · JS · CSS3 · PWA | [live](https://docker-interactive-visualizer.netlify.app/) |
-| 🏠 | **ReserveUnToit** | Laravel · MySQL · Filament · Breeze · Livewire · ORM | [repo](https://github.com/Poca23/ReserveUnToit) |
-| 📊 | **Insurance Simulator** | Python · Streamlit · Plotly · Pandas | [live](https://poca23-simulateur-d-assurances-auto-app-pudty0.streamlit.app/) |
-| 🤖 | **ClickTalk** | React · Spring Boot · Java · MySQL | [org](https://github.com/Clicktalk-group) |
-| 🎮 | **CREATE_GAME** | GDScript · Godot | [repo](https://github.com/Poca23/CREATE_GAME) |
-| 🌟 | **Portfolio CND** | React · TypeScript · Tailwind · PWA | [live](https://portfolio-cnd.netlify.app/) |
-| 🐱 | **Crispouille** | JS · CSS · HTML5 · PWA | [live](https://crispouille-cnd.netlify.app/) |
-
----
-
-
-### 📈 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Poca23&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poca23&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-> 722 contributions in 2024 · 1,168 in 2025 · 632 in 2026 (ongoing)
-
----
-
-### 💼 Experience
-
-**🔹 Junior Developer / Product Owner** · [InnovQube](https://innovqube.com/) · Mar – Jun 2025
-- React components, Leaflet integration, Stripe & webhook debugging
-- Agile sprint management, backlogs, technical documentation
-
-**🔹 CND – Web is Yours** · Since March 2024
-- 30+ deployed projects: web apps, PWAs, games, 3D tools, platforms
-
----
-
-<div align="center">
-
-*"I turn my field experience and full-stack skills into concrete technical solutions for your business."*
-
-**Claire Naudin · [cndweb37@gmail.com](mailto:cndweb37@gmail.com)**
-
-</div>
+| 
