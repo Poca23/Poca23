@@ -89,7 +89,7 @@
 | 🌟 | **Portfolio CND** | React · TypeScript · Tailwind · PWA | [live](https://portfolio-cnd.netlify.app/) |
 | 🐱 | **Crispouille** | JS · CSS · HTML5 · PWA | [live](https://crispouille-cnd.netlify.app/) |
 | 📐 | **Cours Merise & UML** | HTML5 · JS · CSS3 · PWA | [live](https://merise-uml.netlify.app/) |
-| 📅 | **MyAgenda** | JS ES Modules · Firebase Auth · Firestore · Service Worker · PWA · Google Apps Script · Nginx | [live]([#](https://myagenda.webisyours.com/)) |
+| 📅 | **MyAgenda** | JS ES Modules · Firebase Auth · Firestore · Service Worker · PWA · Google Apps Script · Nginx | [live](https://myagenda.webisyours.com/) |
 
 ---
 
@@ -207,7 +207,7 @@
 | 🌟 | **Portfolio CND** | React · TypeScript · Tailwind · PWA | [live](https://portfolio-cnd.netlify.app/) |
 | 🐱 | **Crispouille** | JS · CSS · HTML5 · PWA | [live](https://crispouille-cnd.netlify.app/) |
 | 📐 | **Merise & UML Course** | HTML5 · JS · CSS3 · PWA | [live](https://merise-uml.netlify.app/) |
-| 📅 | **MyAgenda** | JS ES Modules · Firebase Auth · Firestore · Service Worker · PWA · Google Apps Script · Nginx | [live]([#](https://myagenda.webisyours.com/)) |
+| 📅 | **MyAgenda** | JS ES Modules · Firebase Auth · Firestore · Service Worker · PWA · Google Apps Script · Nginx | [live](https://myagenda.webisyours.com/) |
 
 ---
 
