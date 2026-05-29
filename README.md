@@ -23,9 +23,9 @@
 ### 👩‍💻 Qui suis-je ?
 
 🎓 **Bac+2** — Titre DWWM · Greta de Tours · 2025
-📚 **Bac+3 en cours** — CDA · Live Campus · 2026–2027
+📚 **Bac+3 en cours** — Bachelor Développeur IA & Full Stack — RNCP Niveau 6 · Live Campus · 2026–2027
 💼 **Alternance CDA** · 3 semaines entreprise / 1 semaine école · dès que possible
-📍 **Indre-et-Loire (37) · Vienne (86) · Full Remote**
+📍 **Toute la France**
 
 > *"Je construis des solutions web complètes, maintenables et centrées utilisateur — de l'idée au déploiement."*
 
@@ -90,12 +90,16 @@
 | 🐱 | **Crispouille** | JS · CSS · HTML5 · PWA | [live](https://crispouille-cnd.netlify.app/) |
 | 📐 | **Cours Merise & UML** | HTML5 · JS · CSS3 · PWA | [live](https://merise-uml.netlify.app/) |
 | 📅 | **MyAgenda** | JS ES Modules · Firebase Auth · Firestore · Service Worker · PWA · Google Apps Script · Nginx | [live](https://myagenda.webisyours.com/) |
+| 🀄 | **Mahjam** | JS · CSS · HTML5 · Canvas · SVG · PWA | [live](https://mahjam-cnd.netlify.app/) |
+| 🎨 | **MyStyleGuide** | JS · CSS · HTML5 · PWA · CRUD · Live Preview | [live](https://mystyleguide-cnd.netlify.app/) |
+
 
 ---
 
 ### 📈 Activité GitHub
 
-> 722 contributions en 2024 · 1 168 en 2025 · 744 en 2026 (en cours)
+> 722 contributions en 2024 · 1 168 en 2025 · 1 967 en 2026 (en cours)
+> 119 repositories · 96% commits · 4% pull requests · 79 dépôts contribués
 
 ---
 
@@ -141,9 +145,9 @@
 ### 👩‍💻 About Me
 
 🎓 **Bac+2** — DWWM Certification · Greta de Tours · 2025
-📚 **Bac+3 in progress** — CDA · Live Campus · 2026–2027
+📚 **Bac+3 in progress** — Bachelor Développeur IA & Full Stack — RNCP Level 6 · Live Campus · 2026–2027
 💼 **Seeking work-study contract** · 3 weeks company / 1 week school · available now
-📍 **Indre-et-Loire (37) · Vienne (86) · Full Remote**
+📍 **Toute la France**
 
 > *"I build complete, maintainable, user-centered web solutions — from idea to deployment."*
 
@@ -208,12 +212,15 @@
 | 🐱 | **Crispouille** | JS · CSS · HTML5 · PWA | [live](https://crispouille-cnd.netlify.app/) |
 | 📐 | **Merise & UML Course** | HTML5 · JS · CSS3 · PWA | [live](https://merise-uml.netlify.app/) |
 | 📅 | **MyAgenda** | JS ES Modules · Firebase Auth · Firestore · Service Worker · PWA · Google Apps Script · Nginx | [live](https://myagenda.webisyours.com/) |
+| 🀄 | **Mahjam** | JS · CSS · HTML5 · Canvas · SVG · PWA | [live](https://mahjam-cnd.netlify.app/) |
+| 🎨 | **MyStyleGuide** | JS · CSS · HTML5 · PWA · CRUD · Live Preview | [live](https://mystyleguide-cnd.netlify.app/) |
 
 ---
 
 ### 📈 GitHub Activity
 
-> 722 contributions in 2024 · 1,168 in 2025 · 744 in 2026 (ongoing)
+> 722 contributions in 2024 · 1,168 in 2025 · 1 967 in 2026 (ongoing)
+> 119 repositories · 96% commits · 4% pull requests · 79 repositories contributed to
 
 ---
 
