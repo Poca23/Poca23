@@ -1,4 +1,5 @@
 <!-- LANGUE / LANGUAGE -->
+
 🇫🇷 [Français](#-version-française) &nbsp;&nbsp; 🇬🇧 [English](#-english-version)
 
 ---
@@ -27,7 +28,7 @@
 💼 **Alternance CDA** · 3 semaines entreprise / 1 semaine école · dès que possible
 📍 **Toute la France**
 
-> *"Je construis des solutions web complètes, maintenables et centrées utilisateur — de l'idée au déploiement."*
+> _"Je construis des solutions web complètes, maintenables et centrées utilisateur — de l'idée au déploiement."_
 
 ---
 
@@ -64,41 +65,44 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
 
 ### 🚀 Projets Phares
 
-| # | Projet | Stack | Lien |
-|---|--------|-------|------|
-| 🐾 | **Wapan** | JS · CSS · HTML5 · PWA | [live](https://wapan-cnd.netlify.app/) |
-| 🦄 | **TP Site E-commerce** | PHP · MVC · Docker · Ubuntu | [repo](https://github.com/Poca23/TP-SITE-ECOMMERCE) |
-| 🩺 | **Ergothérapeute** | HTML5 · PWA · SEO · SPA | [live](https://ergotherapeute-decherf.netlify.app/) |
-| 🔐 | **CryptoWatcher** | PWA · AES-256-GCM · Web Crypto API | [live](https://cryptowatcher-cnd.netlify.app/) |
-| ⏱️ | **InterimExpress** | PWA · JS · Firebase | [live](https://interimexpress-cnd.netlify.app/) |
-| 🎙️ | **Transcripteur** | JS · Web Speech API | [live](https://transcripteur-cnd.netlify.app/) |
-| 📦 | **InventExpress** | PWA · html5-qrcode · Firebase | [live](https://inventexpress-cnd.netlify.app/index.html) |
-| ➗ | **MathéMagic** | JS · HTML5 · CSS3 | [live](https://mathemagic-cnd.netlify.app/) |
-| ✅ | **Clario** | JS · HTML5 · CSS3 · PWA | [live](https://poca23.github.io/Clario/) |
-| 🌍 | **Git Interactif** | HTML5 · JS · PWA | [live](https://git-interactive-visualizer.netlify.app/) |
-| 🐳 | **Docker Interactif** | HTML5 · JS · CSS3 · PWA | [live](https://docker-interactive-visualizer.netlify.app/) |
-| 🏠 | **ReserveUnToit** | Laravel · MySQL · Filament · Breeze · Livewire · ORM | [repo](https://github.com/Poca23/ReserveUnToit) |
-| 📊 | **Simulateur d'assurance** | Python · Streamlit · Plotly · Pandas | [live](https://poca23-simulateur-d-assurances-auto-app-pudty0.streamlit.app/) |
-| 🤖 | **ClickTalk** | React · Spring Boot · Java · MySQL | [org](https://github.com/Clicktalk-group) |
-| 🎮 | **CREATE_GAME** | GDScript · Godot | [repo](https://github.com/Poca23/CREATE_GAME) |
-| 🌟 | **Portfolio CND** | React · TypeScript · Tailwind · PWA | [live](https://portfolio-cnd.netlify.app/) |
-| 🐱 | **Crispouille** | JS · CSS · HTML5 · PWA | [live](https://crispouille-cnd.netlify.app/) |
-| 📐 | **Cours Merise & UML** | HTML5 · JS · CSS3 · PWA | [live](https://merise-uml.netlify.app/) |
-| 📅 | **MyAgenda** | JS ES Modules · Firebase Auth · Firestore · Service Worker · PWA · Google Apps Script · Nginx | [live](https://myagenda.webisyours.com/) |
-| 🀄 | **Mahjam** | JS · CSS · HTML5 · Canvas · SVG · PWA | [live](https://mahjam-cnd.netlify.app/) |
-| 🎨 | **MyStyleGuide** | JS · CSS · HTML5 · PWA · CRUD · Live Preview | [live](https://mystyleguide-cnd.netlify.app/) |
-
+| #   | Projet                        | Stack                                                                                         | Lien                                                                          |
+| --- | ----------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 📓  | **KAJI — Journal de Projets** | JS Vanilla · Firebase Firestore/Auth · DOMPurify · Nginx · PWA                                | [live](https://kaji.webisyours.com/)                                          |
+| 📊  | **Konsole Analyzer**          | React · Vercel Serverless · Groq (LLaMA 3.1) · Clearbit · Vite · Jest                         | [live](https://konsole-analyzer.vercel.app/)                                  |
+| ✋  | **Les Mots de la Main**       | WordPress · Kadence · Rank Math · UpdraftPlus · Wordfence                                     | [live](https://lesmotsdelamain.fr/)                                           |
+| 🐾  | **Wapan**                     | JS · CSS · HTML5 · PWA                                                                        | [live](https://wapan-cnd.netlify.app/)                                        |
+| 🦄  | **TP Site E-commerce**        | PHP · MVC · Docker · Ubuntu                                                                   | [repo](https://github.com/Poca23/TP-SITE-ECOMMERCE)                           |
+| 🩺  | **Ergothérapeute**            | HTML5 · PWA · SEO · SPA                                                                       | [live](https://ergotherapeute-decherf.netlify.app/)                           |
+| 🔐  | **CryptoWatcher**             | PWA · AES-256-GCM · Web Crypto API                                                            | [live](https://cryptowatcher-cnd.netlify.app/)                                |
+| ⏱️  | **InterimExpress**            | PWA · JS · Firebase                                                                           | [live](https://interimexpress-cnd.netlify.app/)                               |
+| 🎙️  | **Transcripteur**             | JS · Web Speech API                                                                           | [live](https://transcripteur-cnd.netlify.app/)                                |
+| 📦  | **InventExpress**             | PWA · html5-qrcode · Firebase                                                                 | [live](https://inventexpress-cnd.netlify.app/index.html)                      |
+| ➗  | **MathéMagic**                | JS · HTML5 · CSS3                                                                             | [live](https://mathemagic-cnd.netlify.app/)                                   |
+| ✅  | **Clario**                    | JS · HTML5 · CSS3 · PWA                                                                       | [live](https://poca23.github.io/Clario/)                                      |
+| 🌍  | **Git Interactif**            | HTML5 · JS · PWA                                                                              | [live](https://git-interactive-visualizer.netlify.app/)                       |
+| 🐳  | **Docker Interactif**         | HTML5 · JS · CSS3 · PWA                                                                       | [live](https://docker-interactive-visualizer.netlify.app/)                    |
+| 🏠  | **ReserveUnToit**             | Laravel · MySQL · Filament · Breeze · Livewire · ORM                                          | [repo](https://github.com/Poca23/ReserveUnToit)                               |
+| 📊  | **Simulateur d'assurance**    | Python · Streamlit · Plotly · Pandas                                                          | [live](https://poca23-simulateur-d-assurances-auto-app-pudty0.streamlit.app/) |
+| 🤖  | **ClickTalk**                 | React · Spring Boot · Java · MySQL                                                            | [org](https://github.com/Clicktalk-group)                                     |
+| 🎮  | **CREATE_GAME**               | GDScript · Godot                                                                              | [repo](https://github.com/Poca23/CREATE_GAME)                                 |
+| 🌟  | **Portfolio CND**             | React · TypeScript · Tailwind · PWA                                                           | [live](https://portfolio-cnd.netlify.app/)                                    |
+| 🐱  | **Crispouille**               | JS · CSS · HTML5 · PWA                                                                        | [live](https://crispouille-cnd.netlify.app/)                                  |
+| 📐  | **Cours Merise & UML**        | HTML5 · JS · CSS3 · PWA                                                                       | [live](https://merise-uml.netlify.app/)                                       |
+| 📅  | **MyAgenda**                  | JS ES Modules · Firebase Auth · Firestore · Service Worker · PWA · Google Apps Script · Nginx | [live](https://myagenda.webisyours.com/)                                      |
+| 🀄  | **Mahjam**                    | JS · CSS · HTML5 · Canvas · SVG · PWA                                                         | [live](https://mahjam-cnd.netlify.app/)                                       |
+| 🎨  | **MyStyleGuide**              | JS · CSS · HTML5 · PWA · CRUD · Live Preview                                                  | [live](https://mystyleguide-cnd.netlify.app/)                                 |
 
 ---
 
 ### 📈 Activité GitHub
 
-> 722 contributions en 2024 · 1 168 en 2025 · 1 967 en 2026 (en cours)
+> 2 196 contributions dans la dernière année · 722 en 2024 · 1 168 en 2025
 > 119 repositories · 96% commits · 4% pull requests · 79 dépôts contribués
 
 ---
@@ -106,23 +110,26 @@
 ### 💼 Expérience
 
 **🔹 Développeuse Junior / Product Owner** · [InnovQube](https://innovqube.com/) · Mars – Juin 2025
+
 - Développement composants React, intégration Leaflet, debug Stripe & webhooks
 - Gestion sprints Agile, backlogs, documentation technique
 
 **🔹 CND – Web is Yours** · Depuis mars 2024
-- 30+ projets déployés : applications web, PWA, jeux, outils 3D, plateformes
+
+- 30+ projets déployés : applications web, PWA, jeux, outils 3D, plateformes, sites WordPress
 
 ---
 
 <div align="center">
 
-*"Je transforme mon expérience terrain et mes compétences full-stack en solutions techniques concrètes."*
+_"Je transforme mon expérience terrain et mes compétences full-stack en solutions techniques concrètes."_
 
 **Claire Naudin · [cndweb37@gmail.com](mailto:cndweb37@gmail.com)**
 
 </div>
 
 ---
+
 ---
 
 <a name="-english-version"></a>
@@ -149,7 +156,7 @@
 💼 **Seeking work-study contract** · 3 weeks company / 1 week school · available now
 📍 **Toute la France**
 
-> *"I build complete, maintainable, user-centered web solutions — from idea to deployment."*
+> _"I build complete, maintainable, user-centered web solutions — from idea to deployment."_
 
 ---
 
@@ -186,40 +193,44 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-| # | Project | Stack | Link |
-|---|---------|-------|------|
-| 🐾 | **Wapan** | JS · CSS · HTML5 · PWA | [live](https://wapan-cnd.netlify.app/) |
-| 🦄 | **TP E-commerce Site** | PHP · MVC · Docker · Ubuntu | [repo](https://github.com/Poca23/TP-SITE-ECOMMERCE) |
-| 🩺 | **Ergothérapeute** | HTML5 · PWA · SEO · SPA | [live](https://ergotherapeute-decherf.netlify.app/) |
-| 🔐 | **CryptoWatcher** | PWA · AES-256-GCM · Web Crypto API | [live](https://cryptowatcher-cnd.netlify.app/) |
-| ⏱️ | **InterimExpress** | PWA · JS · Firebase | [live](https://interimexpress-cnd.netlify.app/) |
-| 🎙️ | **Transcripteur** | JS · Web Speech API | [live](https://transcripteur-cnd.netlify.app/) |
-| 📦 | **InventExpress** | PWA · html5-qrcode · Firebase | [live](https://inventexpress-cnd.netlify.app/index.html) |
-| ➗ | **MathéMagic** | JS · HTML5 · CSS3 · PWA | [live](https://mathemagic-cnd.netlify.app/) |
-| ✅ | **Clario** | JS · HTML5 · CSS3 · PWA | [live](https://poca23.github.io/Clario/) |
-| 🌍 | **Git Interactive** | HTML5 · JS · PWA | [live](https://git-interactive-visualizer.netlify.app/) |
-| 🐳 | **Docker Explainer** | HTML5 · JS · CSS3 · PWA | [live](https://docker-interactive-visualizer.netlify.app/) |
-| 🏠 | **ReserveUnToit** | Laravel · MySQL · Filament · Breeze · Livewire · ORM | [repo](https://github.com/Poca23/ReserveUnToit) |
-| 📊 | **Insurance Simulator** | Python · Streamlit · Plotly · Pandas | [live](https://poca23-simulateur-d-assurances-auto-app-pudty0.streamlit.app/) |
-| 🤖 | **ClickTalk** | React · Spring Boot · Java · MySQL | [org](https://github.com/Clicktalk-group) |
-| 🎮 | **CREATE_GAME** | GDScript · Godot | [repo](https://github.com/Poca23/CREATE_GAME) |
-| 🌟 | **Portfolio CND** | React · TypeScript · Tailwind · PWA | [live](https://portfolio-cnd.netlify.app/) |
-| 🐱 | **Crispouille** | JS · CSS · HTML5 · PWA | [live](https://crispouille-cnd.netlify.app/) |
-| 📐 | **Merise & UML Course** | HTML5 · JS · CSS3 · PWA | [live](https://merise-uml.netlify.app/) |
-| 📅 | **MyAgenda** | JS ES Modules · Firebase Auth · Firestore · Service Worker · PWA · Google Apps Script · Nginx | [live](https://myagenda.webisyours.com/) |
-| 🀄 | **Mahjam** | JS · CSS · HTML5 · Canvas · SVG · PWA | [live](https://mahjam-cnd.netlify.app/) |
-| 🎨 | **MyStyleGuide** | JS · CSS · HTML5 · PWA · CRUD · Live Preview | [live](https://mystyleguide-cnd.netlify.app/) |
+| #   | Project                    | Stack                                                                                         | Link                                                                          |
+| --- | -------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 📓  | **KAJI — Project Journal** | JS Vanilla · Firebase Firestore/Auth · DOMPurify · Nginx · PWA                                | [live](https://kaji.webisyours.com/)                                          |
+| 📊  | **Konsole Analyzer**       | React · Vercel Serverless · Groq (LLaMA 3.1) · Clearbit · Vite · Jest                         | [live](https://konsole-analyzer.vercel.app/)                                  |
+| ✋  | **Les Mots de la Main**    | WordPress · Kadence · Rank Math · UpdraftPlus · Wordfence                                     | [live](https://lesmotsdelamain.fr/)                                           |
+| 🐾  | **Wapan**                  | JS · CSS · HTML5 · PWA                                                                        | [live](https://wapan-cnd.netlify.app/)                                        |
+| 🦄  | **TP E-commerce Site**     | PHP · MVC · Docker · Ubuntu                                                                   | [repo](https://github.com/Poca23/TP-SITE-ECOMMERCE)                           |
+| 🩺  | **Ergothérapeute**         | HTML5 · PWA · SEO · SPA                                                                       | [live](https://ergotherapeute-decherf.netlify.app/)                           |
+| 🔐  | **CryptoWatcher**          | PWA · AES-256-GCM · Web Crypto API                                                            | [live](https://cryptowatcher-cnd.netlify.app/)                                |
+| ⏱️  | **InterimExpress**         | PWA · JS · Firebase                                                                           | [live](https://interimexpress-cnd.netlify.app/)                               |
+| 🎙️  | **Transcripteur**          | JS · Web Speech API                                                                           | [live](https://transcripteur-cnd.netlify.app/)                                |
+| 📦  | **InventExpress**          | PWA · html5-qrcode · Firebase                                                                 | [live](https://inventexpress-cnd.netlify.app/index.html)                      |
+| ➗  | **MathéMagic**             | JS · HTML5 · CSS3 · PWA                                                                       | [live](https://mathemagic-cnd.netlify.app/)                                   |
+| ✅  | **Clario**                 | JS · HTML5 · CSS3 · PWA                                                                       | [live](https://poca23.github.io/Clario/)                                      |
+| 🌍  | **Git Interactive**        | HTML5 · JS · PWA                                                                              | [live](https://git-interactive-visualizer.netlify.app/)                       |
+| 🐳  | **Docker Explainer**       | HTML5 · JS · CSS3 · PWA                                                                       | [live](https://docker-interactive-visualizer.netlify.app/)                    |
+| 🏠  | **ReserveUnToit**          | Laravel · MySQL · Filament · Breeze · Livewire · ORM                                          | [repo](https://github.com/Poca23/ReserveUnToit)                               |
+| 📊  | **Insurance Simulator**    | Python · Streamlit · Plotly · Pandas                                                          | [live](https://poca23-simulateur-d-assurances-auto-app-pudty0.streamlit.app/) |
+| 🤖  | **ClickTalk**              | React · Spring Boot · Java · MySQL                                                            | [org](https://github.com/Clicktalk-group)                                     |
+| 🎮  | **CREATE_GAME**            | GDScript · Godot                                                                              | [repo](https://github.com/Poca23/CREATE_GAME)                                 |
+| 🌟  | **Portfolio CND**          | React · TypeScript · Tailwind · PWA                                                           | [live](https://portfolio-cnd.netlify.app/)                                    |
+| 🐱  | **Crispouille**            | JS · CSS · HTML5 · PWA                                                                        | [live](https://crispouille-cnd.netlify.app/)                                  |
+| 📐  | **Merise & UML Course**    | HTML5 · JS · CSS3 · PWA                                                                       | [live](https://merise-uml.netlify.app/)                                       |
+| 📅  | **MyAgenda**               | JS ES Modules · Firebase Auth · Firestore · Service Worker · PWA · Google Apps Script · Nginx | [live](https://myagenda.webisyours.com/)                                      |
+| 🀄  | **Mahjam**                 | JS · CSS · HTML5 · Canvas · SVG · PWA                                                         | [live](https://mahjam-cnd.netlify.app/)                                       |
+| 🎨  | **MyStyleGuide**           | JS · CSS · HTML5 · PWA · CRUD · Live Preview                                                  | [live](https://mystyleguide-cnd.netlify.app/)                                 |
 
 ---
 
 ### 📈 GitHub Activity
 
-> 722 contributions in 2024 · 1,168 in 2025 · 1 967 in 2026 (ongoing)
+> 2,196 contributions in the last year · 722 in 2024 · 1,168 in 2025
 > 119 repositories · 96% commits · 4% pull requests · 79 repositories contributed to
 
 ---
@@ -227,17 +238,19 @@
 ### 💼 Experience
 
 **🔹 Junior Developer / Product Owner** · [InnovQube](https://innovqube.com/) · Mar – Jun 2025
+
 - React components, Leaflet integration, Stripe & webhook debugging
 - Agile sprint management, backlogs, technical documentation
 
 **🔹 CND – Web is Yours** · Since March 2024
-- 30+ deployed projects: web apps, PWAs, games, 3D tools, platforms
+
+- 30+ deployed projects: web apps, PWAs, games, 3D tools, platforms, WordPress sites
 
 ---
 
 <div align="center">
 
-*"I turn my field experience and full-stack skills into concrete technical solutions for your business."*
+_"I turn my field experience and full-stack skills into concrete technical solutions for your business."_
 
 **Claire Naudin · [cndweb37@gmail.com](mailto:cndweb37@gmail.com)**
 
